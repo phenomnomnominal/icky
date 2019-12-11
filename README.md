@@ -1,6 +1,6 @@
-[![icky](https://github.com/phenomnomnominal/icky/blob/master/docs/logo.png)](https://phenomnomnominal.github.io/icky/)
+[![icky](https://github.com/phenomnomnominal/icky/blob/master/docs/logo.png)](https://github.com/phenomnomnominal/icky/)
 
-[![npm version](https://img.shields.io/npm/v/icky.svg)](https://img.shields.io/npm/v/icky.svg)
+[![npm version](https://img.shields.io/npm/v/icky.svg)](https://www.npmjs.com/package/icky)
 
 **`ICKY`** is a super simple way to track ickiness in your codebase!
 
