@@ -1,6 +1,6 @@
 {
   "name": "icky",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple tool for tracking ickiness in a codebase",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
